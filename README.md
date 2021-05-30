@@ -1,7 +1,7 @@
 # XamarinFirebaseNotificationsDemo
  Xamarin application to test firebase push notifications.
 
-To send push notifications to devices using various formats. Here I am explaning one among them that is using FCM token.
+There are various formats available to send push notifications to devices. Here I am explaning one among them that is using FCM token.
 
 From the postman, just perform post request using below details.
 
