@@ -1,0 +1,14 @@
+NotificationsDemo/bin/*
+NotificationsDemo/obj/*
+/NotificationsDemo/bin/*
+/NotificationsDemo/obj/*
+NotificationsDemo.Android/bin/*
+NotificationsDemo.Android/obj/*
+/NotificationsDemo.Android/bin/*
+/NotificationsDemo.Android/obj/*
+NotificationsDemo.iOS/bin/*
+NotificationsDemo.iOS/obj/*
+/NotificationsDemo.iOS/bin/*
+/NotificationsDemo.iOS/obj/*
+NotificationsDemo/.vs/*
+/NotificationsDemo/.vs/*

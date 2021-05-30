@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191901798572",
+    "project_id": "xamarinnotifications-2d5f1",
+    "storage_bucket": "xamarinnotifications-2d5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191901798572:android:94fb203192db7a04c44f09",
+        "android_client_info": {
+          "package_name": "com.companyname.notificationsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191901798572-apcu4ir3ie81e4373v5ea496h21ubqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLf5DJf7AOYLr8S4lul6f9Q7AmGGza94I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191901798572-apcu4ir3ie81e4373v5ea496h21ubqcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
